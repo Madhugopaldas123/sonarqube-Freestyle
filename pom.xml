@@ -108,6 +108,9 @@
                   <goals>
                       <goal>report</goal>
                   </goals>
+                  <goals>
+                      <goal>war</goal>
+                  </goals>
               </execution>
           </executions>
       </plugin>
